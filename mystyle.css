@@ -82,6 +82,7 @@
 
 body{
     margin : 0;
+    width: device-width;
 }
 
 .info {
