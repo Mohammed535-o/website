@@ -7,8 +7,8 @@
     font-size: 25px;
     /* width : 100%; */
     margin : auto;
-    padding-top : 20px;
-    padding-bottom : 20px;
+    padding-top : 25px;
+    padding-bottom : 25px;
     padding-right : 80px;
     padding-left : 10px;
 }
@@ -17,20 +17,20 @@
 .contact {
     float : right;
      margin-left : 60px;
-     font-size: 30px;
+     font-size: 25px;
 }
 
 .home {
     float : right;
     /* display : inline-block; */
     margin-left : 60px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .about {
     float : right;
     margin-left : 60px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .buttons a:link,a:visited{
