@@ -109,4 +109,5 @@ body{
     height : 400px;
     width : 100%;
     background-attachment: fixed;
+    margin : 0;
 }
