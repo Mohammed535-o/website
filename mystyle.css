@@ -14,6 +14,21 @@
 }
 
 
+.contact {
+    float : right;
+     margin : 10px;
+}
+
+.home {
+    float : right;
+    /* display : inline-block; */
+    margin : 10px;
+}
+
+.about {
+    float : right;
+    margin : 10px;
+}
 
 .buttons a:link,a:visited{
     color :white;
@@ -23,7 +38,7 @@
 .buttons a:hover{
     color: grey;
     /* font-size : 1.2em; */
-    font-size : 1.4vw;
+    /* font-size : 2vw; */
 }
 
 .contact {
