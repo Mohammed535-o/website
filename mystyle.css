@@ -16,18 +16,21 @@
 
 .contact {
     float : right;
-     margin : 10px;
+     margin-left : 60px;
+     font-size: 30px;
 }
 
 .home {
     float : right;
     /* display : inline-block; */
-    margin : 10px;
+    margin-left : 60px;
+    font-size: 30px;
 }
 
 .about {
     float : right;
-    margin : 10px;
+    margin-left : 60px;
+    font-size: 30px;
 }
 
 .buttons a:link,a:visited{
@@ -107,7 +110,7 @@ body{
     padding-top : 100px;
     padding-bottom : 100px;
     /* padding-left */
-    background-color: lightgoldenrodyellow;
+    background-color: snow;
 }
 .mzz {
     font-family :Courier New;
