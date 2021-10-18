@@ -1,0 +1,60 @@
+.heading1 {
+  text-align: center;
+  color: snow;
+  background-color: black;
+}
+
+.contact {
+  text-align: left;
+  font-size: 30px;
+  color: white;
+}
+
+.body {
+  background-color: white;
+  color: white;
+  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700449554.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover; 
+  font-size: 30px;
+}
+
+.headings {
+  color: white;
+  background-color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.para {
+  color: white;
+  font-size: 30px;
+  text-align: left;
+}
+
+#pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "0px";
+  height: "0px";
+}
+
+.lists {
+  color: white;
+  font-size: 30px;
+}
+
+.tables,th,td {
+  color: white;
+  font-size: 30px;
+  border : 1px solid white;
+  border-collapse: collapse;
+}
+
+.tab-heading{
+    color : black;
+    /*font-size : auto;*/
+}

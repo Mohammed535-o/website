@@ -1,0 +1,112 @@
+.buttons{
+    word-spacing : 30px;
+    background-color : black;
+    color : white;
+    /* text-align : right; */
+    /* height : 40px; */
+    font-size: 25px;
+    /* width : 100%; */
+    margin : auto;
+    padding-top : 20px;
+    padding-bottom : 20px;
+    padding-right : 80px;
+    padding-left : 10px;
+}
+
+
+
+.buttons a:link,a:visited{
+    color :white;
+    text-decoration : none;
+}
+
+.buttons a:hover{
+    color: grey;
+    /* font-size : 1.2em; */
+    font-size : 1.4vw;
+}
+
+.contact {
+    word-spacing : 3px;
+}
+
+.mz {
+    /* text-align : left; */
+    word-spacing : 2px;
+    border-radius: 50%;
+    margin-top : 50px;
+}
+.page-end {
+    background-color : darkgray;
+    /* height : 300px; */
+    text-align: center;
+    padding-top : 150px;
+    padding-bottom : 150px;
+    margin : 0;
+}
+.linkedin {
+    padding : 5px 5px;
+    background-color : transparent;
+    color : blue;
+    text-decoration : none;
+    text-align : center;
+    font-size : 30px;
+    /* border-radius : 100px; */
+    border: 3px solid black;
+}
+
+.youtube {
+    padding : 5px 5px;
+    background-color : tomato;
+    color : blue;
+    text-decoration : none;
+    text-align : center;
+    font-size : 30px;
+    border-radius : 100px;
+    margin : collapse;
+}
+
+.video {
+    
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+}
+
+.video2 {
+    background-color: rgb(19, 18, 18);
+    margin : 0;
+    padding-top : 40px;
+    padding-bottom : 40px;
+}
+
+body{
+    margin : 0;
+}
+
+.info {
+    text-align : center;
+    padding-top : 100px;
+    padding-bottom : 100px;
+    /* padding-left */
+    background-color: lightgoldenrodyellow;
+}
+.mzz {
+    font-family :Courier New;
+    font-size: 50px;
+    /* word-spacing : 1px; */
+}
+
+.text1 {
+    color : gray;
+    font-size : 30px;
+}
+
+.waste {
+    background-image: url('new3.jpg');
+    background-position : center;
+    background-repeat : no-repeat;
+    height : 400px;
+    width : 100%;
+    background-attachment: fixed;
+}
