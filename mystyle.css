@@ -71,6 +71,7 @@
     display : block;
     margin-left : auto;
     margin-right : auto;
+    width : device-width;
 }
 
 .video2 {
