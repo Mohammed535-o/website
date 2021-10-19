@@ -96,7 +96,8 @@ a:visited {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: device-width;
+  width: 400px;
+  height: 400px;
 }
 
 .video2 {
@@ -141,17 +142,18 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-  .video2 {
-    background-color: rgb(19, 18, 18);
-    margin: 0;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    width: device-width;
-  }
-  .video {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: device-width;
-  }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+}
+
+@media (min-width: 1281px) {
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
 }
