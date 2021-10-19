@@ -73,14 +73,16 @@
     border-radius : 100px;
     border: 1px solid black;
     word-spacing: 2px;
+    top  : 8px;
+    left : 16px;
 }
 
 .linked-icon {
     margin-right : 2px;
 }
 .youtube {
-    padding : 5px 5px;
-    background-color : #c00;
+    padding : 8px 8px;
+    background-color : #FF0000;
     color : white;
     text-decoration : none;
     text-align : center;
@@ -137,4 +139,9 @@ body{
     width : device-width;
     background-attachment: fixed;
     margin : 0;
+}
+
+@media screen and (max-width : 480px)
+{
+    
 }
