@@ -1,35 +1,40 @@
 .buttons {
-  word-spacing: 30px;
+  word-spacing: 20px;
   background-color: black;
   color: white;
   /* text-align : right; */
   /* height : 40px; */
-  font-size: 25px;
+  font-size: 20px;
   /* width : 100%; */
   margin: auto;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-right: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
   padding-left: 10px;
+  float : top left ;
+  /* display : inline-block; */
 }
 
 .contact {
-  float: right;
-  margin-left: 60px;
+  /* float: right; */
+  /* margin-left: 60px; */
   font-size: 25px;
+  display : inline-block;
 }
 
 .home {
-  float: right;
+  /* float: right; */
   /* display : inline-block; */
-  margin-left: 60px;
+  /* margin-left: 60px; */
   font-size: 25px;
+  display : inline-block;
 }
 
 .about {
-  float: right;
-  margin-left: 60px;
+  /* float: right; */
+  /* margin-left: 60px; */
   font-size: 25px;
+  display : inline-block;
 }
 
 .buttons a:link,
@@ -50,9 +55,9 @@ a:visited {
 
 .mz {
   /* text-align : left; */
-  word-spacing: 2px;
+  word-spacing: 1px;
   border-radius: 50%;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   height: 80px;
 }
 .page-end {
