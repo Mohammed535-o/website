@@ -53,6 +53,7 @@
     word-spacing : 2px;
     border-radius: 50%;
     margin-top : 50px;
+    height : 80px;
 }
 .page-end {
     background-color : darkgray;
@@ -64,24 +65,29 @@
 }
 .linkedin {
     padding : 5px 5px;
-    background-color : transparent;
-    color : blue;
+    background-color : #0072b1;
+    color : white;
     text-decoration : none;
-    text-align : center;
+    text-align : top right;
     font-size : 30px;
-    /* border-radius : 100px; */
-    border: 3px solid black;
+    border-radius : 100px;
+    border: 1px solid black;
+    word-spacing: 2px;
 }
 
+.linked-icon {
+    margin-right : 2px;
+}
 .youtube {
     padding : 5px 5px;
-    background-color : tomato;
+    background-color : #c00;
     color : blue;
     text-decoration : none;
     text-align : center;
     font-size : 30px;
     border-radius : 100px;
     margin : collapse;
+    border : 1px solid black;
 }
 
 .video {
